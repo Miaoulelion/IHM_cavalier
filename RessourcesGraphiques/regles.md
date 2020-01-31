@@ -8,7 +8,7 @@ Dans le cadre du cours de Interface Homme-Machine en C#, Karim Foughali a propos
 
 # Auteurs
 
-BERTHIER Nicolas : <nic.berthier@gmail.com> 
+BERTHIER Nicolas : <nicolas.berthier@orange.fr> 
 
 JALLAIS Adrien : <adrien.jallais@protonmail.com>
 

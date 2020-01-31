@@ -51,43 +51,49 @@
             this.groupBox1.Controls.Add(this.radioButton3);
             this.groupBox1.Controls.Add(this.radioButton2);
             this.groupBox1.Controls.Add(this.radioButton1);
-            this.groupBox1.Location = new System.Drawing.Point(30, 28);
+            this.groupBox1.Location = new System.Drawing.Point(20, 18);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(653, 259);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Size = new System.Drawing.Size(435, 168);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "groupBox1";
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Location = new System.Drawing.Point(468, 45);
+            this.pictureBox3.Location = new System.Drawing.Point(312, 29);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(126, 117);
+            this.pictureBox3.Size = new System.Drawing.Size(84, 76);
             this.pictureBox3.TabIndex = 5;
             this.pictureBox3.TabStop = false;
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(259, 45);
+            this.pictureBox2.Location = new System.Drawing.Point(173, 29);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(126, 117);
+            this.pictureBox2.Size = new System.Drawing.Size(84, 76);
             this.pictureBox2.TabIndex = 4;
             this.pictureBox2.TabStop = false;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(42, 45);
+            this.pictureBox1.Location = new System.Drawing.Point(28, 29);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(126, 117);
+            this.pictureBox1.Size = new System.Drawing.Size(84, 76);
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
             // radioButton3
             // 
             this.radioButton3.AutoSize = true;
-            this.radioButton3.Location = new System.Drawing.Point(468, 194);
+            this.radioButton3.Location = new System.Drawing.Point(312, 126);
+            this.radioButton3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(126, 24);
+            this.radioButton3.Size = new System.Drawing.Size(85, 17);
             this.radioButton3.TabIndex = 2;
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "radioButton3";
@@ -97,9 +103,10 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(259, 194);
+            this.radioButton2.Location = new System.Drawing.Point(173, 126);
+            this.radioButton2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(126, 24);
+            this.radioButton2.Size = new System.Drawing.Size(85, 17);
             this.radioButton2.TabIndex = 1;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "radioButton2";
@@ -109,9 +116,10 @@
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(42, 194);
+            this.radioButton1.Location = new System.Drawing.Point(28, 126);
+            this.radioButton1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(126, 24);
+            this.radioButton1.Size = new System.Drawing.Size(85, 17);
             this.radioButton1.TabIndex = 0;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "radioButton1";
@@ -120,9 +128,10 @@
             // 
             // bValider
             // 
-            this.bValider.Location = new System.Drawing.Point(396, 310);
+            this.bValider.Location = new System.Drawing.Point(264, 201);
+            this.bValider.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bValider.Name = "bValider";
-            this.bValider.Size = new System.Drawing.Size(125, 36);
+            this.bValider.Size = new System.Drawing.Size(83, 23);
             this.bValider.TabIndex = 3;
             this.bValider.Text = "Valider";
             this.bValider.UseVisualStyleBackColor = true;
@@ -130,9 +139,10 @@
             // 
             // bRetour
             // 
-            this.bRetour.Location = new System.Drawing.Point(203, 310);
+            this.bRetour.Location = new System.Drawing.Point(135, 201);
+            this.bRetour.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bRetour.Name = "bRetour";
-            this.bRetour.Size = new System.Drawing.Size(125, 36);
+            this.bRetour.Size = new System.Drawing.Size(83, 23);
             this.bRetour.TabIndex = 2;
             this.bRetour.Text = "Retour";
             this.bRetour.UseVisualStyleBackColor = true;
@@ -140,12 +150,13 @@
             // 
             // FormeMenu_Parametre_Cavalier
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(726, 375);
+            this.ClientSize = new System.Drawing.Size(475, 245);
             this.Controls.Add(this.bValider);
             this.Controls.Add(this.bRetour);
             this.Controls.Add(this.groupBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "FormeMenu_Parametre_Cavalier";
             this.Text = "FormeMenu_Parametre_Cavalier";
             this.Load += new System.EventHandler(this.FormeMenu_Parametre_Cavalier_Load);
