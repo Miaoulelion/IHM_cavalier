@@ -6,7 +6,7 @@ IUT Paris Descartes - 2019 - Enseignant : FOUGHALI Karim.
 
 Dans le cadre du cours de Interface Homme-Machine en C#, Karim Foughali a proposé de développer un jeu : Le *Problème du Cavalier*, aussi appelé polygraphie ou algorithme du cavalier ou encore cavalier d'Euler.
 
-# Auteurs
+## Auteurs
 
 BERTHIER Nicolas : <nicolas.berthier@orange.fr> 
 
