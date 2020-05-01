@@ -64,8 +64,9 @@ La fenêtre menu d'accueil propose
     + de consulter les règles,
     + d'observer une résolution du problème du cavalier,
     + de tenter une résolution du problème du cavalier.
-
-![Menu](./RessourcesGraphiques/show/menu.png)
+<p>
+<img alt="Menu" src="./RessourcesGraphiques/show/menu.png" width="500">
+</p>
 
 ### Fenêtre "Simulation"
 
@@ -82,8 +83,10 @@ La fenêtre « Simulation » possède les fonctionnalités et composants suivant
   + Possibilité de rejouer la dernière simulation ou démarrer une nouvelle,
   + Possibilité de mettre en pause la simulation à tout moment. 
 
-![Simulation](./RessourcesGraphiques/show/simulation-0.png)
-![Simulation](./RessourcesGraphiques/show/simulation-1.png)
+<p>
+<img alt="Simulation" src="./RessourcesGraphiques/show/simulation-0.png" width="500">
+<img alt="Simulation" src="./RessourcesGraphiques/show/simulation-1.png" width="500">
+</p>
 
 ### Fenêtre "Jeu"
 
@@ -95,8 +98,10 @@ La fenêtre « Jeu » possède les fonctionnalités et composants suivants :
 + Sur une partie on donne à l’utilisateur la capacité d’annuler 5 de ces coups joués. 
 + A tout moment le joueur pourra abandonner la partie auquel cas on lui proposera la simulation complète (avec la même case de départ que celle qu’il vient d’utiliser).
 
-![Solo](./RessourcesGraphiques/show/solo-0.png)
-![Solo](./RessourcesGraphiques/show/solo-1.png)
+<p>
+<img alt="Solo" src="./RessourcesGraphiques/show/solo-0.png" width="500">
+<img alt="Solo" src="./RessourcesGraphiques/show/solo-1.png" width="500">
+</p>
 
 ### Personnalisation
 
@@ -104,7 +109,7 @@ La fenêtre « Jeu » possède les fonctionnalités et composants suivants :
 
 Il est possible de personnaliser les couleurs de l'échéquier.
 
-![Paramètres](./RessourcesGraphiques/show/parametres-damier.png)
+<p><img alt="Paramètres" src="./RessourcesGraphiques/show/parametres-damier.png" height="400"></p>
 
 #### Choix du destrier
 
@@ -113,12 +118,12 @@ Il est possible de choisir sont destrier, ce qui permet de jouer  ou d'observer 
 + un mode normal : les déplacements du cavaliers sont les mêmes que ceux des echecs
 + un mode facile : les cases accessibles par le cavalier (rongeur), à partir d'une case de donnée sont n'importe lesquelles à une distance inférieure à une case depuis laquelle il se trouve.
 
-![Paramètres](./RessourcesGraphiques/show/parametres-destrier.png)
+<p><img alt="Paramètres" src="./RessourcesGraphiques/show/parametres-destrier.png" width="400"></p>
 
 ##### Mode normal
 
-![Mode normal](./RessourcesGraphiques/show/custom-1.png)
+<p><img alt="Mode normal" src="./RessourcesGraphiques/show/custom-1.png" width="500"></p>
 
 ##### Mode facile
 
-![Mode triche](./RessourcesGraphiques/show/custom-2.png)
+<p><img alt="Mode triche" src="./RessourcesGraphiques/show/custom-2.png" width="500"></p>
