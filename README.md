@@ -58,12 +58,14 @@ L’application finale est composée de de 3 fenêtres :
 + Une fenêtre qui montre toute l’efficacité de l’euristique d’Euler.
 + Une autre fenêtre permettant de jouer.
 
-### Menu d'acceuil
+### Menu d'accueil
 
 La fenêtre menu d'accueil propose
-    + de consulter les règles,
-    + d'observer une résolution du problème du cavalier,
-    + de tenter une résolution du problème du cavalier.
+
++ de consulter les règles,
++ d'observer une résolution du problème du cavalier,
++ de tenter une résolution du problème du cavalier.
+
 <p>
 <img alt="Menu" src="./RessourcesGraphiques/show/menu.png" width="500">
 </p>
